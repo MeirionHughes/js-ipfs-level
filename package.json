@@ -32,18 +32,18 @@
     "browserify": "^14.4.0",
     "chai": "^3.5.0",
     "dirty-chai": "^1.2.2",
-    "memdown": "^1.2.4",
+    "memdown": "^5.1.0",
     "mocha": "^3.4.1",
     "rimraf": "^2.6.1",
     "standard": "^10.0.2",
     "tape": "^4.6.3"
   },
   "dependencies": {
-    "abstract-leveldown": "^2.6.1",
+    "abstract-leveldown": "^6.2.2",
     "async": "^2.4.1",
     "debug": "^2.6.8",
     "deep-assign": "^2.0.0",
-    "ipfs": "^0.24.0",
+    "ipfs": "^0.40.0",
     "lodash.clonedeep": "^4.5.0",
     "lodash.uniq": "^4.5.0",
     "vectorclock": "0.0.0"
